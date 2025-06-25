@@ -1,6 +1,9 @@
 ## 👋 Hi there, I’m Thauan!
 - 🌱 I’m currently learning full stack development ....
-- 💞️ I'm looking for opportunity as a full stack developer...
+- ⚙️ Skilled in **C# (.NET)**, **Java**, **Next.js**, **React**, and **SQL**.
+- 📊 Experience working with RESTful APIs, asynchronous messaging (RabbitMQ,ServiceBus).
+- 🚀 Currently improving my skills in **Full Stack Development** and building personal and open-source projects.
+- 💼 Open to new opportunities as a Full Stack Developer.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thauan-devjr/) [![Email](https://img.shields.io/badge/thawanmaracas@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thawanmaracas@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thauan-S&theme=holi&layout=compact&bg_color=001&border_color=b37b22&text_color=FFF)
