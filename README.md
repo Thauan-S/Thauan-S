@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Thauan!
 - 🌱 I’m currently learning full stack development ....
-- ⚙️ Skilled in **C# (.NET)**, **Java**, **Next.js**, **React**, and **SQL**.
+- ⚙️ Skilled in **C# (.NET)**, **Java**, **Next.js**, **React**, **Flutter**,  **SQL** and **NOSQL**.
 - 📊 Experience working with RESTful APIs, asynchronous messaging (RabbitMQ,ServiceBus).
 - 🚀 Currently improving my skills in **Full Stack Development** and building personal and open-source projects.
 - 💼 Open to new opportunities as a Full Stack Developer.
